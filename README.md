@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I enjoy playing football/soccer ⚽️ 
+I like to play videogames such as brawl stars and fifa 🎮 
+My favorite football team is Manchester United 🔴⚪️
+Fun fact: I enjoy reading spy books 📕 🕵️ 
 <!--
 **lomdio2627/lomdio2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-I enjoy playing football/soccer ⚽️ 
-I like to play videogames such as brawl stars and fifa 🎮 
-My favorite football team is Manchester United 🔴⚪️
-Fun fact: I enjoy reading spy books 📕 🕵️ 
+##I enjoy playing football/soccer ⚽️ 
+##I like to play videogames such as brawl stars and fifa 🎮 
+##My favorite football team is Manchester United 🔴⚪️
+##Fun fact: I enjoy reading spy books 📕 🕵️ 
